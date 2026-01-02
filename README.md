@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there , I'm Mayank Rawat 👋
+
+## Full-Stack Web Devloper | “Design. Develop. Deliver.”
 
 # 💫 About Me:
 Full-stack web projects, Laravel / React apps, and real-world startup ideas , performance optimization and responsive web design.<br>I can spend hours perfecting a UI pixel by pixel 😄
